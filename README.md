@@ -6,10 +6,13 @@
 
 <p align="center">
   <a href="mailto:engler2005@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="COLOQUE_AQUI_SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="COLE_AQUI_SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/EnglerEngler">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -29,7 +32,7 @@ Atualmente, estou construindo projetos para fortalecer meu portfólio e evoluir 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,html,css,cs,mysql,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,html,css,cs,mysql,git,github,docker,vscode" alt="Tecnologias e ferramentas" />
 
 </div>
 
@@ -58,7 +61,7 @@ O projeto envolve desenvolvimento web, integração com IA, backend, frontend e 
 **Tecnologias:** TypeScript, Next.js, JavaScript, CSS, Backend, IA e APIs.
 
 🔗 Repositório:  
-https://github.com/EnglerEngler/bjm-facens
+[github.com/EnglerEngler/bjm-facens](https://github.com/EnglerEngler/bjm-facens)
 
 ---
 
@@ -67,7 +70,7 @@ https://github.com/EnglerEngler/bjm-facens
 Projeto de análise, correção e visualização de dados operacionais, com geração de relatórios em HTML e apresentação final em PDF.
 
 🔗 Repositório:  
-https://github.com/EnglerEngler/case-tecnico-monks-operations
+[github.com/EnglerEngler/case-tecnico-monks-operations](https://github.com/EnglerEngler/case-tecnico-monks-operations)
 
 ---
 
@@ -87,9 +90,9 @@ Experiência com integração da API do **LiveKit** para funcionalidades relacio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnglerEngler&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnglerEngler&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnglerEngler&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnglerEngler&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
 
@@ -97,6 +100,6 @@ Experiência com integração da API do **LiveKit** para funcionalidades relacio
 
 ## Contato
 
-- E-mail: engler2005@gmail.com
-- LinkedIn: https://www.linkedin.com/in/joaovictorengler
-- GitHub: https://github.com/EnglerEngler
+- E-mail: [engler2005@gmail.com](mailto:engler2005@gmail.com)
+- LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/joaovictorengler)
+- GitHub: [github.com/EnglerEngler](https://github.com/EnglerEngler)
