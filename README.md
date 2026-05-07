@@ -8,7 +8,7 @@
   <a href="mailto:engler2005@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="COLE_AQUI_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/joaovictorengler">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/EnglerEngler">
