@@ -103,12 +103,55 @@ Experiência com integração da API do **LiveKit** para funcionalidades relacio
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Resumo Técnico
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EnglerEngler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnglerEngler&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Full%20Stack-blue?style=for-the-badge" alt="Desenvolvimento Full Stack" />
+  <img src="https://img.shields.io/badge/Interesse-Intelig%C3%AAncia%20Artificial-purple?style=for-the-badge" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/Experi%C3%AAncia-Integra%C3%A7%C3%A3o%20de%20APIs-green?style=for-the-badge" alt="Integração de APIs" />
 </p>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💻 Desenvolvimento
+
+TypeScript  
+React  
+Next.js  
+JavaScript  
+HTML  
+CSS  
+C#
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 IA & APIs
+
+ChatGPT API  
+Grok API  
+LiveKit API  
+Automações  
+Integrações  
+Sistemas inteligentes  
+
+</td>
+<td width="33%" align="center">
+
+### 🗄️ Dados & Ferramentas
+
+MySQL  
+SQL  
+Git  
+GitHub  
+Docker  
+VS Code  
+
+</td>
+</tr>
+</table>
 
 ---
 
